@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **multiple products and project automation**
 
-- 🌱 I’m currently learning **ML, AI**
+- 🌱 I’m currently learning **ML, AI, Prompt engineering**
 
 - 👯 I’m looking to collaborate on **anything that makes life easy**
 
